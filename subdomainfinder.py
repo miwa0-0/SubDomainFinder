@@ -4,7 +4,7 @@ import itertools
 
 print("Enter the target domain: ",end="")
 domain=input()
-with open("serviceswordlists.txt", "r") as file:
+with open("subdomain.txt", "r") as file:
     subdomains = file.read().splitlines()
 
 with open("validproxies.txt","r") as f:
