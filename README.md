@@ -9,3 +9,6 @@ This is a bruteforce Subdomain finder made with python and uses proxies to preve
 
 # validproxies.txt
   ~ I have provided free valid proxies which help in making requests to targeted subdomain.
+
+If you want to add your own proxies, you can add them in validproxies.txt
+If you want to add your own subdomain, you can add them in subdomain.txt
