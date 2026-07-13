@@ -1,3 +1,9 @@
+#Installation process:
+git clone https://github.com/miwa0-0/SubDomainFinder.git
+
+#Use:
+python subdomainfinder.py
+
 # SubDomainFinder
 This is a bruteforce Subdomain finder made with python and uses proxies to prevent ip blocking.
 
