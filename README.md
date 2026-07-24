@@ -1,4 +1,5 @@
 #Installation process:
+Type this in your terminal-
 git clone https://github.com/miwa0-0/SubDomainFinder.git
 
 #Use:
